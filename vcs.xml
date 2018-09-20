@@ -3,27 +3,11 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="https://meggett@code.pnpit.com/scm/pnp/consumerui-embedded.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://meggett@code.pnpit.com/scm/pnp/api.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://meggett@code.pnpit.com/scm/pnp/pointandpay.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
           <option name="url" value="https://meggett@code.pnpit.com/scm/pnp/middletier.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://meggett@code.pnpit.com/scm/pnp/pnp-web-r.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://meggett@code.pnpit.com/scm/pnp/file-loader.git" />
+          <option name="url" value="https://meggett@code.pnpit.com/scm/pnp/pointandpay.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
