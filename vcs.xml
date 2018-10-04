@@ -47,7 +47,11 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://meggett@code.pnpit.com/scm/pnp/release-deployment.git" />
+          <option name="url" value="https://meggett@code.pnpit.com/scm/pnpm/pointandpay-vesta-bom.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://meggett@code.pnpit.com/scm/pnpm/pointandpay-parent.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
