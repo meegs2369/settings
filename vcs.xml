@@ -98,6 +98,10 @@
           <option name="url" value="https://meggett@code.pnpit.com/scm/pnp/global-settlement.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://meggett@code.pnpit.com/scm/epxdp/epx-direct-payment.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Matt Eggett\git" />
