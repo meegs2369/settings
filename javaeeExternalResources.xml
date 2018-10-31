@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="http://xml.apache.org/xalan" location="$USER_HOME$/.IntelliJIdea2018.2/system/extResources/3273488e_xalan.html" />
     <resource url="http://xml.apache.org/xalan-j" location="$USER_HOME$/.IntelliJIdea2018.2/system/extResources/62c362eb_xalan-j.html" />
   </component>
 </application>
