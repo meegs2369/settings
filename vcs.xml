@@ -214,6 +214,10 @@
           <option name="url" value="https://meggett@bitbucket.org/epxengineering/test-server.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://meggett@code.pnpit.com/scm/pnp/reactive-dmv-consumer-ui.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Matt Eggett\git" />
