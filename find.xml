@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'test-your-might'" />
-    <option name="defaultScopeName" value="Project 'test-your-might'" />
-    <option name="SEARCH_SCOPE" value="Project 'test-your-might'" />
+    <option name="customScope" value="Project 'epx-direct-payment'" />
+    <option name="defaultScopeName" value="Project 'epx-direct-payment'" />
+    <option name="SEARCH_SCOPE" value="Project 'epx-direct-payment'" />
   </component>
 </application>
