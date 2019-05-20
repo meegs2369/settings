@@ -238,6 +238,10 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="meggett" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://meggett@code.pnpit.com/scm/pnp/vapi.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Matt Eggett\git" />
