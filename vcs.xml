@@ -250,6 +250,10 @@
           <option name="url" value="https://meggett@code.pnpit.com/scm/pnp/foundation-lib.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://meggett@code.pnpit.com/scm/pnp/vadmin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Matt Eggett\git" />
