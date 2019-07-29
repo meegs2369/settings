@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'security-lib'" />
-    <option name="defaultScopeName" value="Project 'security-lib'" />
-    <option name="SEARCH_SCOPE" value="Project 'security-lib'" />
+    <option name="customScope" value="Project 'vadmin'" />
+    <option name="defaultScopeName" value="Project 'vadmin'" />
+    <option name="SEARCH_SCOPE" value="Project 'vadmin'" />
   </component>
 </application>
