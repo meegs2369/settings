@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="security-connector" />
-    <option name="defaultScopeName" value="security-connector" />
-    <option name="SEARCH_SCOPE" value="security-connector" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Project 'authorization-service'" />
+    <option name="defaultScopeName" value="Project 'authorization-service'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Project 'authorization-service'" />
   </component>
 </application>
