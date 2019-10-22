@@ -294,6 +294,10 @@
           <option name="url" value="https://meggett@code.pnpit.com/scm/pnplib/foundation-lib.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/meegs2369/test-your-might.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\meggett\IdeaProjects" />
