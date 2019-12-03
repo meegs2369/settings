@@ -1,9 +1,9 @@
 <scheme name="Biaseech2" version="142">
   <metaInfo>
-    <property name="created">2019-08-07T13:23:04</property>
+    <property name="created">2019-12-02T17:26:53</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-08-07T13:23:10</property>
+    <property name="ideVersion">2019.3.0.0</property>
+    <property name="modified">2019-12-02T17:26:57</property>
   </metaInfo>
   <colors>
     <option name="CARET_COLOR" value="d0d0d0" />
