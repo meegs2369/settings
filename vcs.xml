@@ -302,6 +302,10 @@
           <option name="url" value="https://meggett@code.pnpit.com/scm/pnp/workbench.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://meggett@code.pnpit.com/scm/pnpmod/authorization-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\meggett\ProjectFiles\PnPProjects" />
