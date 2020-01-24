@@ -310,6 +310,10 @@
           <option name="url" value="https://meggett@code.pnpit.com/scm/pnpm/security-parent.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://meggett@code.pnpit.com/scm/pnpm/pointandpay-parent-jre7.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\meggett\ProjectFiles\PnP" />
