@@ -1,0 +1,18 @@
+<application>
+  <component name="libraryTable">
+    <library name="aspectj-1.8.13">
+      <CLASSES>
+        <root url="jar://C:/Other Programs/aspectj/aspectj-1.8.13.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://C:/Other Programs/aspectj/aspectj-1.8.13.jar!/doc/aspectj5rt-api" />
+        <root url="jar://C:/Other Programs/aspectj/aspectj-1.8.13.jar!/doc/runtime-api" />
+        <root url="jar://C:/Other Programs/aspectj/aspectj-1.8.13.jar!/doc/weaver-api" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://C:/Other Programs/aspectj/aspectj-1.8.13.jar!/doc/examples" />
+        <root url="jar://C:/Other Programs/aspectj/aspectj-1.8.13.jar!/doc/examples/ltw" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
