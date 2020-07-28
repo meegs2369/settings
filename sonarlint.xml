@@ -1,10 +1,8 @@
 <application>
   <component name="SonarLintGlobalSettings">
     <option name="autoTrigger" value="false" />
-    <option name="excludedRules">
-      <set>
-        <option value="Web:S1827" />
-      </set>
-    </option>
+    <rules>
+      <Rule active="false" key="Web:S1827" />
+    </rules>
   </component>
 </application>
