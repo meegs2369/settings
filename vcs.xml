@@ -358,6 +358,14 @@
           <option name="url" value="https://meggett@bitbucket.org/epxengineering/database-migrations.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://meggett@bitbucket.org/epxengineering/pnp-config-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://meggett@bitbucket.org/epxengineering/payment-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\meggett\ProjectFiles\EPXFiles" />
