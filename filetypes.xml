@@ -2,9 +2,9 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.classpath;*.idea;*.iml;*.project;*.pyc;*.pyo;*.rbc;*.settings;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="rs" type="Rust" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
